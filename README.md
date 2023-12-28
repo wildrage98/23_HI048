@@ -18,4 +18,6 @@
 
 자세한 구동방식은 아래 링크의 동영상을 참조해 주십시오.
 
+[![Video Label](http://img.youtube.com/vi/lqEiWCCVZq4/0.jpg)](https://youtu.be/lqEiWCCVZq4)
+
 https://www.youtube.com/watch?v=lqEiWCCVZq4
